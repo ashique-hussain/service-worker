@@ -1,0 +1,1 @@
+alert('Service Worker active');
